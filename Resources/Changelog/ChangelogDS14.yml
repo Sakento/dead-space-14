@@ -2726,3 +2726,10 @@ Entries:
   changes:
   - type: Tweak
     message: Теперь, базальт не ломается от кирки в одной руке
+- id: 268
+  author: TheZuTi
+  time: '2026-06-06T16:26:23.807705+00:00'
+  pr: 1642
+  changes:
+  - type: Add
+    message: Звуки смеха для КПБ
