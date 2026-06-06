@@ -2733,3 +2733,10 @@ Entries:
   changes:
   - type: Add
     message: Звуки смеха для КПБ
+- id: 269
+  author: ZekA1L
+  time: '2026-06-06T17:48:21.497091+00:00'
+  pr: 1643
+  changes:
+  - type: Fix
+    message: Отображение морганий с повязками. Манифест Тенеморфа.
