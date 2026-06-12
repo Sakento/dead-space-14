@@ -3094,3 +3094,12 @@ Entries:
     message: Дизайн UI КПК.
   - type: Tweak
     message: Дизайн некоторых приложений в КПК.
+- id: 308
+  author: Genes1us
+  time: '2026-06-12T07:50:39.391424+00:00'
+  pr: 1702
+  changes:
+  - type: Tweak
+    message: Отображение сложенного телескопического щита
+  - type: Fix
+    message: Отображение раскрытого телескопического щита
