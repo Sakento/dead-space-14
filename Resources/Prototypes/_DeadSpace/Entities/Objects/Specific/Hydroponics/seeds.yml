@@ -54,7 +54,7 @@
 
 - type: entity
   parent: SeedBase
-  name: пакет семян (Пузырчатого Кактоплюха)
+  name: пакет семян (пузырчатый кактоплюх)
   description: Из этих семян вырастет пузырчатый Кактоплюх. Он совсем не колится!
   id: CactusBubbleSeeds
   components:

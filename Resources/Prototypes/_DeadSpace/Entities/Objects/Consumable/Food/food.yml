@@ -625,8 +625,8 @@
 - type: entity
   parent: [FragileGrenadeBase, ProjectileGrenadeBase, BaseSyndicateContraband]
   id: FoodCactusBomb
-  name: Взрывной плод
-  description: Его колючки пульсируют, мне явно не следует ронять его.
+  name: взрывной плод
+  description: колючки пульсируют, мне явно не следует ронять его.
   components:
   - type: Item
     heldPrefix: produce
@@ -664,7 +664,7 @@
 - type: entity
   id: FoodCactusBubble
   parent: FoodProduceBase
-  name: Цветок Кактоплюха
+  name: цветок кактоплюха
   description: Цветок пахнет больницей, его пыльца черного цвета.
   components:
   - type: Item
@@ -681,7 +681,7 @@
       - ReagentId: Septomycin
         Quantity: 2
   - type: Sprite
-    sprite: _DeadSpace/Objects/Specific/Hydroponics/сactus_bubble.rsi
+    sprite: _DeadSpace/Objects/Specific/Hydroponics/cactus_bubble.rsi
     state: produce
   - type: FlavorProfile
     flavors:

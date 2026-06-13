@@ -133,7 +133,7 @@
   id: CactusBombPlant
   name: Взрывной кактус
   noun: seeds-noun-seeds
-  displayName: Взрывной кактус
+  displayName: взрывной кактус
   plantRsi: _DeadSpace/Objects/Specific/Hydroponics/cactus_bomb.rsi
   packetPrototype: CactusBombSeeds
   productPrototypes:
@@ -165,7 +165,7 @@
   id: CactusBubblePlant
   name: Пузырчатый Кактоплюх
   noun: seeds-noun-seeds
-  displayName: Пузырчатый Кактоплюх
+  displayName: пузырчатый кактоплюх
   plantRsi: _DeadSpace/Objects/Specific/Hydroponics/cactus_bubble.rsi
   packetPrototype: CactusBubbleSeeds
   productPrototypes:
