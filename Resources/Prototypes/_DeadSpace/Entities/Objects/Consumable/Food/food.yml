@@ -564,10 +564,6 @@
     damage:
       types:
         Piercing: 3
-  - type: Construction
-    graph: MeatCactus
-    node: start
-    defaultTarget: Meat Cactus
 
 - type: entity
   id: FoodCactusCoral
@@ -660,9 +656,6 @@
   - type: ThrowingAngle
     angle: 315
   - type: LandAtCursor
-    animation: WeaponArcThrust
-    soundHit:
-      path: /Audio/Weapons/pierce.ogg
   - type: DamageOtherOnHit
     damage:
       types:
@@ -692,7 +685,7 @@
     state: produce
   - type: FlavorProfile
     flavors:
-      - сactus_bubble
+      - cactus_bubble
   - type: SolutionContainerManager
     solutions:
       food:

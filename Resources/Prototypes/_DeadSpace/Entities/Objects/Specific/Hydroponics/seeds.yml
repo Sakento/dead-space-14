@@ -61,4 +61,4 @@
     - type: Seed
       seedId: CactusBubblePlant
     - type: Sprite
-      sprite: _DeadSpace/Objects/Specific/Hydroponics/сactus_bubble.rsi
+      sprite: _DeadSpace/Objects/Specific/Hydroponics/cactus_bubble.rsi

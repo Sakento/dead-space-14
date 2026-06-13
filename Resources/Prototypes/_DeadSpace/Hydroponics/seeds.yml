@@ -166,7 +166,7 @@
   name: Пузырчатый Кактоплюх
   noun: seeds-noun-seeds
   displayName: Пузырчатый Кактоплюх
-  plantRsi: _DeadSpace/Objects/Specific/Hydroponics/сactus_bubble.rsi
+  plantRsi: _DeadSpace/Objects/Specific/Hydroponics/cactus_bubble.rsi
   packetPrototype: CactusBubbleSeeds
   productPrototypes:
     - FoodCactusBubble
